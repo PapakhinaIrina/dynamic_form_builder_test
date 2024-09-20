@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "id": "1725441558335",
+      "type": "text",
+      "label": "Test text",
+      "value": "test"
+    },
+    {
+      "id": "1725441558867",
+      "type": "checkbox",
+      "label": "Test checkbox",
+      "value": true
+    },
+    {
+      "id": "1725441559384",
+      "type": "dropdown",
+      "label": "Test dropdown",
+      "value": "Option 1"
+    },
+    [
+      {
+        "id": 1726819569559,
+        "value": "true",
+        "type": "checkbox",
+        "label": "Test checkbox"
+      },
+      {
+        "id": 1726819569559,
+        "value": "Option 3",
+        "type": "dropdown",
+        "label": "Test dropdown"
+      },
+      {
+        "id": 1726819569559,
+        "value": "rrr",
+        "type": "text",
+        "label": "Test text"
+      }
+    ]
+  ]
+}
